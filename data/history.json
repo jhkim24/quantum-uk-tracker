@@ -1,0 +1,12 @@
+{
+  "runs": [
+    {
+      "timestamp": "2026-05-10T18:49:20+00:00",
+      "open": 2,
+      "closed": 1,
+      "unknown": 10,
+      "errors": 2,
+      "changes": 0
+    }
+  ]
+}
