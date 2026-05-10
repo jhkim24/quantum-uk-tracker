@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T19:05:25+00:00",
+  "generated_at": "2026-05-10T19:23:06+00:00",
   "count": 15,
   "results": [
     {
       "id": "oxford-alp-urop",
       "url": "https://www.physics.ox.ac.uk/research/subdepartment/atomic-and-laser-physics/atomic-and-laser-summer-research-programme",
-      "fetched_at": "2026-05-10T19:04:37+00:00",
+      "fetched_at": "2026-05-10T19:22:23+00:00",
       "http_status": 200,
       "error": null,
       "status": "open",
@@ -17,7 +17,7 @@
     {
       "id": "ucl-quantum-cdt",
       "url": "https://www.ucl.ac.uk/quantum/study-here/quantum-doctoral-programmes/undergraduate-summer-placements",
-      "fetched_at": "2026-05-10T19:04:42+00:00",
+      "fetched_at": "2026-05-10T19:22:26+00:00",
       "http_status": 200,
       "error": null,
       "status": "closed",
@@ -29,7 +29,7 @@
     {
       "id": "riverlane",
       "url": "https://www.riverlane.com/jobs/internships",
-      "fetched_at": "2026-05-10T19:04:45+00:00",
+      "fetched_at": "2026-05-10T19:22:29+00:00",
       "http_status": 403,
       "error": "HTTP 403",
       "status": "error",
@@ -41,7 +41,7 @@
     {
       "id": "nqcc",
       "url": "https://www.nqcc.ac.uk/careers/",
-      "fetched_at": "2026-05-10T19:04:47+00:00",
+      "fetched_at": "2026-05-10T19:22:31+00:00",
       "http_status": 200,
       "error": null,
       "status": "unknown",
@@ -53,19 +53,19 @@
     {
       "id": "phasecraft",
       "url": "https://www.phasecraft.io/careers",
-      "fetched_at": "2026-05-10T19:04:52+00:00",
+      "fetched_at": "2026-05-10T19:22:35+00:00",
       "http_status": 200,
       "error": null,
       "status": "unknown",
       "deadline_text": null,
       "content_hash": "dfa44482cd7b7cc2",
       "snippet": null,
-      "changed": true
+      "changed": false
     },
     {
       "id": "quantum-dice",
       "url": "https://www.quantum-dice.com/careers/",
-      "fetched_at": "2026-05-10T19:04:55+00:00",
+      "fetched_at": "2026-05-10T19:22:38+00:00",
       "http_status": 200,
       "error": null,
       "status": "unknown",
@@ -77,7 +77,7 @@
     {
       "id": "oxford-instruments",
       "url": "https://careers.oxinst.com/",
-      "fetched_at": "2026-05-10T19:04:57+00:00",
+      "fetched_at": "2026-05-10T19:22:40+00:00",
       "http_status": 200,
       "error": null,
       "status": "unknown",
@@ -89,7 +89,7 @@
     {
       "id": "oqc",
       "url": "https://oxfordquantumcircuits.com/careers",
-      "fetched_at": "2026-05-10T19:05:01+00:00",
+      "fetched_at": "2026-05-10T19:22:44+00:00",
       "http_status": 404,
       "error": "HTTP 404",
       "status": "error",
@@ -101,7 +101,7 @@
     {
       "id": "quantinuum",
       "url": "https://www.quantinuum.com/careers",
-      "fetched_at": "2026-05-10T19:05:05+00:00",
+      "fetched_at": "2026-05-10T19:22:47+00:00",
       "http_status": 200,
       "error": null,
       "status": "unknown",
@@ -113,31 +113,31 @@
     {
       "id": "pqshield",
       "url": "https://pqshield.com/careers/",
-      "fetched_at": "2026-05-10T19:05:07+00:00",
+      "fetched_at": "2026-05-10T19:22:49+00:00",
       "http_status": 200,
       "error": null,
       "status": "unknown",
       "deadline_text": null,
-      "content_hash": "fd1865df3f6c7123",
+      "content_hash": "209ce162808ba98c",
       "snippet": null,
       "changed": true
     },
     {
       "id": "quantum-motion",
       "url": "https://www.quantummotion.tech/careers",
-      "fetched_at": "2026-05-10T19:05:11+00:00",
-      "http_status": 202,
-      "error": "empty page text",
+      "fetched_at": "2026-05-10T19:22:53+00:00",
+      "http_status": 200,
+      "error": null,
       "status": "unknown",
       "deadline_text": null,
-      "content_hash": null,
+      "content_hash": "0df21c9bb030c54c",
       "snippet": null,
       "changed": false
     },
     {
       "id": "npl",
       "url": "https://www.npl.co.uk/careers/early-careers/student-placements",
-      "fetched_at": "2026-05-10T19:05:14+00:00",
+      "fetched_at": "2026-05-10T19:22:56+00:00",
       "http_status": 404,
       "error": "HTTP 404",
       "status": "error",
@@ -149,19 +149,19 @@
     {
       "id": "stfc-general",
       "url": "https://www.stfccareers.co.uk/early-careers/",
-      "fetched_at": "2026-05-10T19:05:17+00:00",
+      "fetched_at": "2026-05-10T19:22:59+00:00",
       "http_status": 200,
       "error": null,
       "status": "unknown",
       "deadline_text": null,
-      "content_hash": "f219217a308d5c0e",
+      "content_hash": "ab73013ae5138502",
       "snippet": null,
       "changed": true
     },
     {
       "id": "epsrc-vacation",
       "url": "https://www.mpls.ox.ac.uk/divisional-support-and-services/applicants/epsrc-vacation-bursaries",
-      "fetched_at": "2026-05-10T19:05:19+00:00",
+      "fetched_at": "2026-05-10T19:23:02+00:00",
       "http_status": 200,
       "error": null,
       "status": "unknown",
@@ -173,7 +173,7 @@
     {
       "id": "qintern",
       "url": "https://qworld.net/qintern-2026/",
-      "fetched_at": "2026-05-10T19:05:23+00:00",
+      "fetched_at": "2026-05-10T19:23:05+00:00",
       "http_status": 200,
       "error": null,
       "status": "open",
