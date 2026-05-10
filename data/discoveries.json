@@ -1,5 +1,61 @@
 {
-  "generated_at": "2026-05-10T00:00:00+00:00",
-  "count": 0,
-  "items": []
+  "generated_at": "2026-05-10T19:05:39+00:00",
+  "count": 5,
+  "items": [
+    {
+      "url": "https://jobs.wes.org.uk/jobs-quantum-technologies-summer-placements-job1406",
+      "title": "Quantum Technologies Summer Placements - jobs.wes.org.uk",
+      "snippet": "Description:QuantumTechnologiesSummerPlacements Are you looking for a research placement orinternshipthissummerand considering further study in science & technology after yourundergraduatedegree? UCL'sQuantumTechnologiesundergraduatesummerplacement program is now open for applications!",
+      "domain": "jobs.wes.org.uk",
+      "matched_queries": [
+        "UK quantum computing undergraduate summer internship 2027"
+      ],
+      "first_seen": "2026-05-10T19:05:26+00:00",
+      "seen_count": 1
+    },
+    {
+      "url": "https://jobs.wes.org.uk/jobs-quantum-technologies-summer-placements-job178",
+      "title": "Quantum Technologies Summer Placements - Women's Engineering Society",
+      "snippet": "UCL'sQuantumTechnologiesundergraduatesummerplacementprogram is now open for applications! Come to UCL this summer for a paid 8-weekresearchproject, working with academics and postgraduate researchers from UCL's Centre for Doctoral Training in DeliveringQuantumTechnologies.",
+      "domain": "jobs.wes.org.uk",
+      "matched_queries": [
+        "UK quantum technology undergraduate research placement"
+      ],
+      "first_seen": "2026-05-10T19:05:30+00:00",
+      "seen_count": 1
+    },
+    {
+      "url": "https://qte.ac.uk/industry-placements/",
+      "title": "Industry Placements | EPSRC CDT in Quantum Technology Engineering",
+      "snippet": "Each student in the EPSRC CDT forQuantumTechnologyEngineering undertakes a 12-week industryplacementat the end of their first year. Theseplacements, which take place across theUKand overseas, give students experience of working in a commercial environment; they are not usually directly associated with their PhDresearchprojects, though we try to arrangeplacementsthat use and enhance ...",
+      "domain": "qte.ac.uk",
+      "matched_queries": [
+        "UK quantum technology undergraduate research placement"
+      ],
+      "first_seen": "2026-05-10T19:05:30+00:00",
+      "seen_count": 1
+    },
+    {
+      "url": "https://www.sussex.ac.uk/study/undergraduate/courses/physics-quantum-technology-research-placement-mphys/september-2026",
+      "title": "Physics (Quantum Technology) (research placement) MPhys",
+      "snippet": "We are the firstUKuniversity to offerundergraduatestudentsquantumtechnologyresearchexperience from day one of your degree. You'll join one of ourquantumtechnologyresearchgroups and learn from world-leading researchers and key influencers in industry. Ourresearchinforms your modules.",
+      "domain": "sussex.ac.uk",
+      "matched_queries": [
+        "UK quantum technology undergraduate research placement"
+      ],
+      "first_seen": "2026-05-10T19:05:30+00:00",
+      "seen_count": 1
+    },
+    {
+      "url": "https://www.theuniguide.co.uk/university-of-sussex-s90/courses/physics-quantum-technology-research-placement-mphys-full-time-4-years-2026-ead9858cb04f",
+      "title": "Physics (Quantum Technology) (research placement) - The Uni Guide",
+      "snippet": "Explore the 4 Years full-time Physics (QuantumTechnology) (researchplacement) F322 course at University of Sussex (Main Site), starting 21/09/2026. See entry requirements and reviews.",
+      "domain": "theuniguide.co.uk",
+      "matched_queries": [
+        "UK quantum technology undergraduate research placement"
+      ],
+      "first_seen": "2026-05-10T19:05:30+00:00",
+      "seen_count": 1
+    }
+  ]
 }

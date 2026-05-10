@@ -7,6 +7,14 @@
       "unknown": 10,
       "errors": 2,
       "changes": 0
+    },
+    {
+      "timestamp": "2026-05-10T19:05:25+00:00",
+      "open": 2,
+      "closed": 1,
+      "unknown": 9,
+      "errors": 3,
+      "changes": 3
     }
   ]
 }
